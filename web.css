@@ -1,0 +1,175 @@
+
+
+#container {
+    height: 500px;
+    width: 1250px;
+    justify-content: no;
+    background-image: url("img.1.jpeg");
+    background-size: cover;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.jak {
+    height: 50px;
+    width: 1250px;
+    background-color: black;
+    text-decoration-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#container button {
+    border-radius: 50%;
+     height: 100px;
+     width: 100px;
+     margin-left: 1000px;
+     font-size: large;
+                  background-color: rgb(127, 156, 230);
+                   color: red;
+}
+
+#pic {
+height: 500px;
+width: 1240px;
+background-color: azure;
+}
+
+#ture {
+display: flex;
+height: 600px;
+width: 1250px;
+justify-content: space-between;
+}
+
+
+#false {
+    display: flex;
+    height: 600px;
+    width: 1250px;
+    justify-content: space-between;
+    }
+
+#grid {
+    margin-top: 10%;
+}
+
+#back {
+    height: 900px; 
+    width: 1250px;
+    background-size: cover;
+    background-image: url('https://img.freepik.com/free-photo/anxiety-induced-by-dark-forest_23-2150981903.jpg');
+}
+
+#card {
+    height: 400px;
+    width: 1250px;
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: space-between;
+
+}
+
+
+#drac {
+    height: 400px;
+    width: 1250px;
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: space-between;
+
+}
+
+#reh {
+    height: 1200px;
+     width: 1250px;
+     margin-top: 2px;
+     background-size: cover;
+     background-image: url("https://cdn.photoroom.com/v1/assets-cached.jpg?path=backgrounds_v3/black/Photoroom_black_background_extremely_fine_texture_only_black_co_b99c8103-0e9c-41eb-a7f8-4f121d0a28cb.jpg");
+}
+
+#sana {
+    padding-top: 25%;
+}
+
+#sana h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+#sana h2 {
+    color: antiquewhite;
+    text-align: center;
+    font-family: geneva;
+    
+}
+
+#sana p{
+    text-align: center;
+    color: bisque;
+}
+
+#sufi {
+    height: 500px;
+    width: 800px;
+    margin-left: 20%;
+    border-radius: 5%;
+    background-image: url("https://cdn.photoroom.com/v1/assets-cached.jpg?path=backgrounds_v3/black/Photoroom_black_background_extremely_fine_texture_only_black_co_b99c8103-0e9c-41eb-a7f8-4f121d0a28cb.jpg");
+}
+
+.one {
+    border-radius: 5px;
+    text-align: start;
+    padding-top: 5%;
+    margin-top: 100px;
+    align-items: center;
+    margin-left: 150px;
+    justify-content: space-between;
+
+}
+
+#name {
+    height: 40px;
+    width: 200px;
+    color: orange;
+}
+
+#Email {
+    height: 40px;
+    width: 200px;
+    color: orange;
+
+}
+
+.two {
+    border-radius: 5px;
+    text-align: start;
+    margin-top: 30px;
+    align-items: center;
+    margin-left: 150px;
+    justify-content: space-between;
+
+}
+
+#number {
+    height: 40px;
+    width: 200px;
+    color: orange;
+    
+}
+
+#text {
+    height: 40px;
+    width: 200px;
+    color: orange;
+}
+#description {
+background-color: rgb(247, 244, 244);
+margin-left: 130px;
+}
